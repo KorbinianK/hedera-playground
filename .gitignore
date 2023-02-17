@@ -1,0 +1,4 @@
+node_modules
+.env
+account-keys.txt
+dist/
